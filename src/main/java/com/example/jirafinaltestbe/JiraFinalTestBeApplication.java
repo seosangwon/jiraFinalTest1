@@ -9,7 +9,7 @@ public class JiraFinalTestBeApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(JiraFinalTestBeApplication.class, args);
-        System.out.println("main branch");
+        System.out.println("develope branch");
     }
 
 }
