@@ -10,6 +10,7 @@ public class JiraFinalTestBeApplication {
 
         SpringApplication.run(JiraFinalTestBeApplication.class, args);
         System.out.println("feature-LKLN-12-login branch");
+        System.out.println("final 브랜치");
     }
 
 }
